@@ -1,0 +1,12 @@
+bearing,actual_s,pred_s,actual_norm,pred_norm,error_s,pct_error,pred_class,actual_class,match,color
+Bearing1_3,5730,2539.0,0.318,0.1409,-3191.0,55.69,Imminent Failure,Non-Critical,False,#E74C3C
+Bearing1_4,339,485.6,0.0298,0.0426,146.6,-43.24,Critical / EOL,Critical / EOL,True,#922B21
+Bearing1_5,1610,17520.4,0.0699,0.7611,15910.4,-988.22,Wear Detectable,Critical / EOL,False,#F1C40F
+Bearing1_6,1460,10950.5,0.0634,0.4757,9490.5,-650.04,Non-Critical,Critical / EOL,False,#E67E22
+Bearing1_7,7570,13421.2,0.504,0.8936,5851.2,-77.29,Healthy,Non-Critical,False,#2ECC71
+Bearing2_3,7530,11417.6,0.6265,0.9499,3887.6,-51.63,Healthy,Wear Detectable,False,#2ECC71
+Bearing2_4,1390,5609.5,0.2271,0.9166,4219.5,-303.56,Healthy,Imminent Failure,False,#2ECC71
+Bearing2_5,3090,18144.2,0.1543,0.9063,15054.2,-487.19,Healthy,Imminent Failure,False,#2ECC71
+Bearing2_6,1290,4758.8,0.2255,0.832,3468.8,-268.9,Healthy,Imminent Failure,False,#2ECC71
+Bearing2_7,580,1680.9,0.3372,0.9773,1100.9,-189.81,Healthy,Non-Critical,False,#2ECC71
+Bearing3_3,820,3474.7,0.233,0.9871,2654.7,-323.75,Healthy,Imminent Failure,False,#2ECC71
